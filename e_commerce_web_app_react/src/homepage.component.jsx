@@ -45,7 +45,7 @@ const HomePage = () => (
 
         <div className = 'Menu-Item'>
             <div className = 'content'>
-                <h1 className = 'Title'> Snikkers </h1>
+                <h1 className = 'Title'> sneakers </h1>
                 <span className = 'SubTitle' > SHOW NOW </span>
 
             </div>
